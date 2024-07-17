@@ -3,7 +3,7 @@ from base64 import b64encode
 
 def web_portfolio():
     # page configs 
-    st.set_page_config(page_title = "Said's Portfolio",page_icon="⭐")
+    st.set_page_config(page_title = "Anna's Portfolio",page_icon="⭐")
     # Set the page title
     st.write(f"""
     <div class="title" style="text-align: center;">
@@ -90,6 +90,7 @@ def web_portfolio():
     - I can fix mistakes in your essay or other text files.
     - In my free time i like to make power workouts and draw pictures.
     - I also make tattoos as a hobby, some graphic stuff etc.
+    - Based in Oslo, Norway
     """)
 
     st.write("##")
