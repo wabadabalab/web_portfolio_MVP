@@ -85,13 +85,11 @@ def web_portfolio():
     st.subheader("About Me")
 
     st.markdown("""
-    - 🧑‍💻🚀 I am a **Data Scientist and Gen AI developer** at [Digna AS](https://www.Digna.no/), 
-    where I am currently working on an AI platform to help simplify public information to newcomers to Norway.
-    - ❤️ I am passionate about *Machine Learning/Deep Learning, Artifical intelligence, Data Science, Software Engineering, 
-   Data Analytics, Automation*, and more!
-    - 🏂 In my free time, I enjoy practising sports such as weight lifting and chalistenics.
-    - 🪧 You can reach me at said@diga.no.
-    - 🏠 Based in Norway.
+    - I'm a musician. I play guitar, piano, drums, bass, i can also sing and play many other instruments.
+    - I write songs, poems and essays.
+    - I can fix mistakes in your essay or other text files.
+    - In my free time i like to make power workouts and draw pictures.
+    - I also make tattoos as a hobby, some graphic stuff etc.
     """)
 
     st.write("##")
