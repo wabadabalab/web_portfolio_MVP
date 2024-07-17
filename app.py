@@ -7,7 +7,7 @@ def web_portfolio():
     # Set the page title
     st.write(f"""
     <div class="title" style="text-align: center;">
-    <span style='font-size: 32px;'>Hello! My name is Said Hemaz</span>👋
+    <span style='font-size: 32px;'>Hello! My name is Anna Nahorna</span>👋
     </div>
     """, unsafe_allow_html=True)
     st.markdown('<style>div.block-container{padding-top:3rem;}</style>',unsafe_allow_html=True)
