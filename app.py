@@ -58,7 +58,7 @@ def web_portfolio():
 # Set the title
     st.write(f"""
              <div class=
-             "subtitle" style="text-align: center;">Data Scientist and GenAI Developer</div>""",
+             "subtitle" style="text-align: center;">Improving your sleep quality</div>""",
               unsafe_allow_html=True)
 # Add Social Icons
     social_icons_data = {
