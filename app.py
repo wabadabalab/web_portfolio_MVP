@@ -3,11 +3,11 @@ from base64 import b64encode
 
 def web_portfolio():
     # page configs 
-    st.set_page_config(page_title = "Anna's Portfolio",page_icon="⭐")
+    st.set_page_config(page_title = "Sleep Factorie's Portfolio",page_icon="⭐")
     # Set the page title
     st.write(f"""
     <div class="title" style="text-align: center;">
-    <span style='font-size: 32px;'>Hello! My name is Anna Nahorna</span>👋
+    <span style='font-size: 32px;'>Hello! We are Sleep Factory!</span>👋
     </div>
     """, unsafe_allow_html=True)
     st.markdown('<style>div.block-container{padding-top:3rem;}</style>',unsafe_allow_html=True)
@@ -85,12 +85,9 @@ def web_portfolio():
     st.subheader("About Me")
 
     st.markdown("""
-    - I'm a musician. I play guitar, piano, drums, bass, i can also sing and play many other instruments.
-    - I write songs, poems and essays.
-    - I can fix mistakes in your essay or other text files.
-    - In my free time i like to make power workouts and draw pictures.
-    - I also make tattoos as a hobby, some graphic stuff etc.
-    - Based in Oslo, Norway
+    - We are here to improve your sleeping quality and experience. 
+    - We want to help you to fight your insomnia and prevent waking up at night. 
+        You cant contact with us by our managers: Oleksandr and Anna
     """)
 
     st.write("##")
