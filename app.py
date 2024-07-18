@@ -89,8 +89,7 @@ def web_portfolio():
     - We want to help you to fight your insomnia and prevent waking up at night. 
     -  You cant contact with us by our managers: Oleksandr (+472947189848) and Anna (+4796667763)
     - YOU can be our testing person, can help us to improve our quality and make it better for our customers!
-        
-    """)
+      """)
 
     st.write("##")
 
